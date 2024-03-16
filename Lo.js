@@ -3,7 +3,7 @@
 //
 
 if (condition) {
-    
+    let tong = 0;
 } else {
     
 }
