@@ -5,11 +5,7 @@
 if (condition) {
     let tong = 0;
 } else {
-    if (tong = 0) {
-
-    } else {
-
-    }
+    
 }
 
 
