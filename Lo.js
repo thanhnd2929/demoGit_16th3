@@ -7,8 +7,8 @@ if (condition) {
 } else {
     if (tong = 0) {
 
-    } else {
-
+    } else if(tong = 1) {
+        console.log('dang cap')
     }
 }
 
